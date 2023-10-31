@@ -59,7 +59,7 @@ def signin():
     
     if(username in email_column):
         if(password == pass_column[email_column.index(username)]):
-            name = pass_column[email_column.index(username)]
+            name = uid_column[email_column.index(username)]
             user = User(username=name)
             login_user(user)
             return redirect("/")
