@@ -1,0 +1,4 @@
+Flask
+Flask-Login
+gspread
+oauth2client
