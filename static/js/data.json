@@ -1,0 +1,130 @@
+{
+    "CSE": {
+      "1": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ],
+      "2": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ]
+    },
+    "ITE": {
+      "1": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ],
+      "2": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ]
+    },
+    "ECE": {
+      "1": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ],
+      "2": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ]
+    },
+    "ELE": {
+      "1": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ],
+      "2": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ]
+    },
+  "MEC": {
+      "1": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ],
+      "2": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ]
+    },
+    "CIV": {
+      "1": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ],
+      "2": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ]
+    },
+    "MME": {
+      "1": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ],
+      "2": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ]
+    },
+    "CHE": {
+      "1": [
+        ["Engineering Physics","https://drive.google.com/drive/folders/1YsjzmubrUNHeK9q5LMlWvEpqzQp0ffsH?usp=sharing"],  
+        ["Engineering Mechanics","https://drive.google.com/drive/folders/18ye7mF8htjsM6tRrAluCqT3EL0exY15R?usp=drive_link"],
+        ["Elemnts of mechanical Engineering","https://drive.google.com/drive/folders/1LWsa02UxHy7xYS5GY5kkwXmB5bzPwiZG?usp=sharing"],
+        ["Mathematics - 2","https://drive.google.com/drive/folders/1lx0OIzaq_d7yh4mCLQExSTjNYNxd0aQ3?usp=drive_link"],
+        ["Advanced English and communication","https://drive.google.com/drive/folders/1S2_bxtXQQZFLAbnvdLoHFmloLIeC9x7i?usp=drive_link"],
+        ["Environmental studies","https://drive.google.com/drive/folders/1385IZkkPJo3ifAog_e4DksoRVMsr-qVJ?usp=drive_link"]
+      ],
+      "2": [
+        ["Chemistry","https://drive.google.com/drive/folders/1BZ0rnehHr9tiUb205VrZMAEIDdQG21x8?usp=drive_link"],
+        ["maths","https://drive.google.com/drive/folders/1v9TQJjJ6V0sJOxqrjirodIBMbzvLZHqC?usp=drive_link"],
+        ["Basic electrical Engineering","https://drive.google.com/drive/folders/1VrMYCQsKW7JbY3bYpLkRp4ER6WhQ9lvp?usp=drive_link"],
+        ["Computer Proramming","https://drive.google.com/drive/folders/1wUhgAt9hU3OdhcnT2ytvZIUfOV2uezcB?usp=drive_link"]
+      ]
+    }
+  }
