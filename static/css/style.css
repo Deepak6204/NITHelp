@@ -6,6 +6,10 @@ html{
   scroll-behavior: smooth;
 }
 
+.navbar-brand,.nav-link{
+  color: white !important;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   color: #0c0c0c;
