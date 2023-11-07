@@ -175,6 +175,14 @@ def profile():
         return redirect('/')
     else:
         return redirect(url_for('login'))
+    
+
+@app.route('/readMore')
+def readMore():
+    if current_user.is_authenticated:
+        return render_template('readMore.html', user = current_user.username)
+    else:
+        return render_template('readMore.html',user  = "Login")
 
 if __name__ == '__main__':
     app.run(debug=True)
