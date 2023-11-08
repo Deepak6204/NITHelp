@@ -1,8 +1,33 @@
+<script>
+  // Check if dark mode is enabled
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    // Dark mode is enabled
+    changeFavicon('static/images/nithelp-favicon-white.png'); // Change to dark mode favicon
+} else {
+    // Dark mode is not enabled
+    changeFavicon('static/images/nithelp-favicon-black.png'); // Change to light mode favicon
+}
+
+function changeFavicon(newFavicon) {
+    var favicon = document.querySelector('link[rel="icon"]');
+    if (favicon !== null) {
+        favicon.href = newFavicon;
+    } else {
+        // Favicon link element doesn't exist, create one
+        var link = document.createElement('link');
+        link.rel = 'icon';
+        link.type = "image/x-icon";
+        link.href = newFavicon;
+        document.head.appendChild(link);
+    }
+}
+
+</script>
 <header class="header_section">
   <div class="container-fluid">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/">NITHelp</a>
+        <a class="navbar-brand" href="/"><img src = "/static/images/nithelp-favicon-white.png"> NITHelp</a>
         <button
           class="navbar-toggler"
           type="button"
