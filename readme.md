@@ -149,6 +149,7 @@ It's a good practice to use a virtual environment to manage dependencies:
    python3 -m venv venv
 ```
 2. Activate the virtual environment:
+
    - On macOS and Linux:
 ```bash
      source venv/bin/activate
