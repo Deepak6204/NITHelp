@@ -1,6 +1,6 @@
-# Flask Q&A Application
+# NITHelp Forums
 
-This project is a Q&A web application built with Flask. Users can sign up, log in, ask questions, and provide answers. The project uses SQLite3 for the database and includes user authentication.
+This project is a forums web application built with Flask. Users can sign up, log in, ask questions, and provide answers. The project uses SQLite3 for the database and includes user authentication.
 
 ## Features
 
@@ -111,8 +111,6 @@ The application should now be running on http://127.0.0.1:5000/.
 #### View Notes
 1. Log in to your account.
 2. Navigate to the /notes page to view your notes.
-
-# Contributing
 
 # Contributing to This Project
 
