@@ -2,19 +2,9 @@
     {
         "answers": [
             {
-                "answer": "it's 1.2 lpa",
-                "username": "2021BITE075"
-            },
-            {
-                "answer": "it's 14lpa",
-                "username": "2021BITE075"
-            },
-            {
-                "answer": "deepak",
+                "answer": "this was a demo answer",
                 "username": "deepak"
             }
-        ],
-        "question": "what is the average package at nit srinagar",
-        "question_id": 2
+        ]
     }
 ]
